@@ -9,7 +9,7 @@ public class Quadrado {
         int n2 = sc.nextInt();
         int n3 = sc.nextInt();
         int n4 = sc.nextInt();
-        // quadrado de cada um
+        // quadrado de cada um dos números
         int n1quadrado = n1 * n1;
         int n2quadrado = (int) Math.pow(n2, 2);
         int n3quadrado = n3 * n3;
